@@ -1,6 +1,6 @@
 # Hello, I'm Stepan! 👋
 
-![Profile views](https://gpvc.arturio.dev/sd-denisoff)
+> ![Profile views](https://gpvc.arturio.dev/sd-denisoff)
 
 I am a 19-year-old software developer based in Moscow 🇷🇺.
 
