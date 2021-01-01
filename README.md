@@ -12,7 +12,8 @@ For more info check my [CV](https://github.com/sd-denisoff/sd-denisoff/blob/mast
 
 ## Me on other resources
 - [Telegram](https://t.me/sd_denisoff)
+- [Instagram](https://www.instagram.com/sd.denisoff)
 
-### Some of my GitHub stats
+## Some of my GitHub stats
 
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=sd-denisoff&layout=compact)](https://github.com/sd-denisoff/github-readme-stats)
