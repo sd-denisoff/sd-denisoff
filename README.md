@@ -4,9 +4,9 @@
 
 I am a 19-year-old software developer based in Moscow 🇷🇺.
 
-I started programming in 2015, having entered the Moscow School of Programmers in Yandex. Later I’ve finished HSE Lyceum (specialization in mathematics and computer science) and went to Higher School of Economics University.
+I started programming in 2015, having entered the Moscow School of Programmers in Yandex. Later I’ve finished HSE Lyceum (specialization in mathematics and computer science) and went to Higher School of Economics University, Moscow, Russia.
 
-Currently I'm getting a Bachelor's degree in Computer Science at Higher School of Economics, Moscow, Russia. I'm graduating in 2023.
+Currently I'm getting a Bachelor's degree in Computer Science. I'm graduating in 2023.
 
 For more info check my [CV](https://github.com/sd-denisoff/sd-denisoff/blob/master/CV%20Денисов.pdf).
 
