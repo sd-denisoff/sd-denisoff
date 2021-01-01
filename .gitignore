@@ -1,8 +1,8 @@
-# Исходник CV
-CV Денисов.pptx
+# Source files
+*.pptx
 
-# Портрет
-Портрет.jpg
+# Portrait
+portrait.jpg
 
 # MacOS stuff
 .DS_Store
