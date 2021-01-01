@@ -1,8 +1,5 @@
 # Source files
 *.pptx
 
-# Portrait
-portrait.jpg
-
 # MacOS stuff
 .DS_Store
