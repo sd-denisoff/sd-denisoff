@@ -1,91 +1,18 @@
-# Шаблон проекта на Flask
+# Hello, I'm Stepan! 👋
 
-> [![](https://i.postimg.cc/7PQfGGH4/PPn-P-logo.png)](https://ppnp.me 'Официальный сайт команды')
->
-> [![](https://img.shields.io/badge/PM%26BA-Павел%20Крылов-lightgrey)](https://vk.com/pkryloff 'VK profile')
-> [![](https://img.shields.io/badge/UX%2FUI-Леонид%20Кравцов-green)](https://vk.com/leokravtsov 'VK profile')
-> [![](https://img.shields.io/badge/backend-Степан%20Денисов-lightblue)](https://t.me/sd_denisoff 'VK profile')
-> [![](https://img.shields.io/badge/frontend-Матвей%20Котцов-orange)](https://vk.com/kottsovcom 'VK profile')
-> [![](https://img.shields.io/badge/DS%2FML-Денис%20Козлов-blue)](https://vk.com/dkozl 'VK profile')
+![Profile views](https://gpvc.arturio.dev/sd-denisoff)
 
-## Стек технологий
+I am a 19-year-old software developer based in Moscow 🇷🇺.
 
-#### Backend
-- python3
-- Flask + addons
-- SQLAlchemy ORM
-- MVC pattern
+I started programming in 2015, having entered the Moscow School of Programmers in Yandex. Later I’ve finished HSE Lyceum (specialization in mathematics and computer science) and went to Higher School of Economics University.
 
-#### Frontend
-- React
-- HTML5
-- CSS3
-- JS
+Currently I'm getting a Bachelor's degree in Computer Science at Higher School of Economics, Moscow, Russia. I'm graduating in 2023.
 
-## Инструкция по запуску
+For more info check my [CV](https://github.com/sd-denisoff/sd-denisoff/blob/master/CV%20Денисов.pdf).
 
-1. Склонируйте репозиторий и перейдите в директорию с проектом
-    ```
-    git clone <link>
-    cd <project_directory>
-    ```
+## Me on other resources
+- [Telegram](https://t.me/sd_denisoff)
 
-2. Создайте и активируйте виртуальное окружение
-    ```
-    virtualenv --python=python3 venv
-    source venv/bin/activate
-    ```
+### Some of my GitHub stats
 
-3. Установите зависимости
-    ```
-    pip3 install -r requirements.txt
-    ```
-
-4. Запустите веб-приложение
-    ```
-    python3 manage.py runserver
-    ```
-
-## Полезные команды
-
-1. Генерация папки migrations (в случае её отсутствия)
-    ```
-    python3 manage.py db init
-    ```
-
-2. Создание новой миграции
-    ```
-    python3 manage.py db migrate -m "comment"
-    ```
-
-3. Обновление архитектуры БД до определённой миграции
-    ```
-    python3 manage.py db upgrade <migration>
-    ```  
-
-4. Откат архитектуры БД до определённой миграции
-    ```
-    python3 manage.py db downgrade <migration>
-    ```  
-
-5. Просмотр информации о текущей миграции
-    ```
-    python3 manage.py db current
-    ```
-
-6. Просмотр списка миграций
-    ```
-    python3 manage.py db history
-    ```
-
-7. Удаление БД и всех миграций
-    ```
-    python3 manage.py db_delete
-    ```
-
-8. Сброс данных в БД
-    ```
-    python3 manage.py db_reset
-    ```  
-
-Developed by [PPnP Team](https://ppnp.me 'Официальный сайт команды')
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=sd-denisoff&layout=compact)](https://github.com/sd-denisoff/github-readme-stats)
