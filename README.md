@@ -8,7 +8,7 @@ I started programming in 2015, having entered the Moscow School of Programmers i
 
 Currently I'm getting a Bachelor's degree in Computer Science. I'm graduating in 2023.
 
-Since autumn 2019 I'm a backend developer of the [PPnP team](https://ppnp.me 'official team website'). We participate in hackathons and work on commercial orders.
+Since autumn 2019 I'm also a backend developer of the [PPnP team](https://ppnp.me 'official team website'). We participate in hackathons and work on commercial projects.
 
 For more info check my [CV](https://github.com/sd-denisoff/sd-denisoff/tree/master/CV%20Денисов/CV%20Денисов.pdf).
 
