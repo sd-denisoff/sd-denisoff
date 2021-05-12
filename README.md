@@ -10,7 +10,7 @@ Currently I'm getting a Bachelor's degree in Computer Science. I'm graduating in
 
 Since autumn 2019 I'm also a backend developer of the [PPnP team](https://ppnp.me 'official team website'). We participate in hackathons and work on commercial projects.
 
-For more info check my [CV](https://github.com/sd-denisoff/sd-denisoff/blob/master/CV/CV%20Denisov.pdf).
+For more info check my [CV](https://drive.google.com/file/d/191rkVPB8HaQGH7-H_TgLK2lW5dyltVn3/view?usp=sharing).
 
 ## Me on other resources
 - [Telegram](https://t.me/sd_denisoff)
