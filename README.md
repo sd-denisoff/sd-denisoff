@@ -2,15 +2,15 @@
 
 ![Profile views](https://gpvc.arturio.dev/sd-denisoff)
 
-I am a 19-year-old software developer based in Moscow 🇷🇺.
+I am a 20-year-old software developer based in Moscow 🇷🇺.
 
 I started programming in 2015, having entered the Moscow School of Programmers in Yandex. Later I’ve finished HSE Lyceum (specialization in mathematics and computer science) and went to Higher School of Economics University, Moscow, Russia.
 
 Currently I'm getting a Bachelor's degree in Computer Science. I'm graduating in 2023.
 
-Since autumn 2019 I'm also a backend developer of the [PPnP team](https://ppnp.me 'official team website'). We participate in hackathons and work on commercial projects.
+Since autumn 2019 I'm also a backend developer of the [PPnP team](https://ppnp.me 'official team website'). We launch startups, participate in hackathons and work on commercial projects.
 
-For more info check my [CV](https://drive.google.com/file/d/191rkVPB8HaQGH7-H_TgLK2lW5dyltVn3/view?usp=sharing).
+For more info check my [CV](https://drive.google.com/file/d/1L-CwadXvQv8acJ70s2J7LaUxZWmYwDu3/view?usp=sharing).
 
 ## Me on other resources
 - [Telegram](https://t.me/sd_denisoff)
