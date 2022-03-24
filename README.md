@@ -12,7 +12,7 @@ Since autumn 2019 I'm also a backend developer of the [PPnP team](https://ppnp.m
 
 For more info check my [CV](https://drive.google.com/file/d/1L-CwadXvQv8acJ70s2J7LaUxZWmYwDu3/view?usp=sharing).
 
-- Contact me on [Telegram](https://t.me/sd_denisoff)
+Contact me on [Telegram](https://t.me/sd_denisoff)
 
 ## GitHub stats
 
