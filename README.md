@@ -1,6 +1,6 @@
 # Hello, I'm Stepan! 👋
 
-I am a 23-years-old quantitative researcher based in Moscow 🇷🇺.
+I am a 24-years-old quantitative researcher based in Moscow 🇷🇺.
 
 I started programming in 2015, having entered the Moscow School of Programmers in Yandex. Later I’ve finished HSE Lyceum (specialization in mathematics and computer science) and went to Higher School of Economics University, Moscow, Russia.
 
