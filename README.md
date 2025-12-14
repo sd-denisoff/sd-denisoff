@@ -26,26 +26,26 @@ Quantitative Investment Strategies Team \
 
 🎓 Master’s Degree — 2025
 
-Financial Technology and Data Analysis
+Financial Technology and Data Analysis \
 Higher School of Economics (HSE), Moscow
 
 🎓 Bachelor’s Degree — 2023
 
-Applied Mathematics and Informatics
+Applied Mathematics and Informatics \
 Higher School of Economics (HSE), Moscow
 
-🏫 Earlier Education
-	•	HSE Lyceum — Mathematics & Computer Science
+🏫 Earlier Education \
+	•	HSE Lyceum — Mathematics & Computer Science \
 	•	Moscow School of Programmers (Yandex) — Algorithms & Software Engineering
 
 ⸻
 
 🚀 Pet-projects experience
 
-[PPnP team](https://ppnp.me/)
-📅 Autumn 2019 – Present
-	•	Building startups and commercial products
-	•	Participation in hackathons
+[PPnP team](https://ppnp.me/) \
+📅 Autumn 2019 – Present \
+	•	Building startups and commercial products \
+	•	Participation in hackathons \
 	•	From research prototypes to production-ready systems
 
 For more info check my CV [[RU](https://drive.google.com/file/d/1L-GqeLurX8R28J172sbl30QvXgmPjwXx/view?usp=sharing)/[EN](https://drive.google.com/file/d/1L-CwadXvQv8acJ70s2J7LaUxZWmYwDu3/view?usp=sharing)] and contact me on [Telegram](https://t.me/sd_denisoff)!
