@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Stepan
 
-📍 Moscow, Russia
-💼 Quantitative Developer
+📍 Moscow, Russia \
+💼 Quantitative Developer \
 🐍 Python-first
 
 I focus on developing quantitative investment strategies and on the support and evolution of production-grade investment algorithms.
@@ -9,20 +9,20 @@ My work lies at the intersection of infrastructure programming, applied mathemat
 
 ⸻
 
-🧠 Experienced
+## 🧠 Experienced
 
 🏦 Quantitative Developer
 
-Raiffeisenbank / Raiffeisen Asset Management Company
-Quantitative Investment Strategies Team
-📅 Autumn 2022 – Present
-	•	Research and development of systematic investment strategies
-	•	Support and enhancement of production trading and analytics pipelines
-	•	Applied statistics, optimization, and ML in real-world financial systems
+Raiffeisenbank / Raiffeisen Asset Management Company \
+Quantitative Investment Strategies Team \
+📅 Autumn 2022 – Present \
+	•	Research and development of systematic investment strategies \
+	•	Support and enhancement of production trading and analytics pipelines \
+	•	Applied statistics, optimization, and ML in real-world financial systems \
 
 ⸻
 
-🎓 Education
+## 🎓 Education
 
 🎓 Master’s Degree — 2025
 
