@@ -7,20 +7,13 @@
 I focus on developing quantitative investment strategies and on the support and evolution of production-grade investment algorithms.
 My work lies at the intersection of infrastructure programming, applied mathematics, machine learning and financial markets.
 
-⸻
-
 ## 🧠 Experienced
 
-🏦 Quantitative Developer
-
-Raiffeisenbank / Raiffeisen Asset Management Company \
-Quantitative Investment Strategies Team \
-📅 Autumn 2022 – Present \
+🏦 Raiffeisenbank / Raiffeisen Asset Management Company / Quantitative Investment Strategies Team \
+📅 Autumn 2022 – Present (Quantitative Developer) \
 	•	Research and development of systematic investment strategies \
 	•	Support and enhancement of production trading and analytics pipelines \
 	•	Applied statistics, optimization, and ML in real-world financial systems \
-
-⸻
 
 ## 🎓 Education
 
@@ -38,9 +31,7 @@ Higher School of Economics (HSE), Moscow
 	•	HSE Lyceum — Mathematics & Computer Science \
 	•	Moscow School of Programmers (Yandex) — Algorithms & Software Engineering
 
-⸻
-
-🚀 Pet-projects experience
+## 🚀 Pet-projects experience
 
 [PPnP team](https://ppnp.me/) \
 📅 Autumn 2019 – Present \
