@@ -13,9 +13,16 @@ My work lies at the intersection of infrastructure programming, applied mathemat
 📅 Autumn 2022 – Present (Quantitative Developer) \
 	•	Research and development of systematic investment strategies \
 	•	Support and enhancement of production trading and analytics pipelines \
-	•	Applied statistics, optimization, and ML in real-world financial systems \
+	•	Applied statistics, optimization, and ML in real-world financial systems
 
 ## 🎓 Education
+
+🎓 Additional education
+
+mini-Master in Finance \ New Economic School:
+- Quant Trading
+- Applied Derivatives
+- Fixed Income
 
 🎓 Master’s Degree — 2025
 
