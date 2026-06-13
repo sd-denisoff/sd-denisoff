@@ -17,7 +17,7 @@ My work lies at the intersection of infrastructure programming, applied mathemat
 
 ## 🎓 Education
 
-🎓 Additional education
+🎓 Additional education – 2026
 
 mini-Master in Finance \ New Economic School:
 - Quant Trading
@@ -35,8 +35,8 @@ Applied Mathematics and Informatics \
 Higher School of Economics (HSE), Moscow
 
 🏫 Earlier Education \
-	•	HSE Lyceum — Mathematics & Computer Science \
-	•	Moscow School of Programmers (Yandex) — Algorithms & Software Engineering
+- HSE Lyceum — Mathematics & Computer Science
+- Moscow School of Programmers (Yandex) — Algorithms & Software Engineering
 
 ## 🚀 Pet-projects experience
 
