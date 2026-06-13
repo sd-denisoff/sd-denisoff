@@ -34,7 +34,7 @@ Higher School of Economics (HSE), Moscow
 Applied Mathematics and Informatics \
 Higher School of Economics (HSE), Moscow
 
-🏫 Earlier Education \
+🏫 Earlier Education:
 - HSE Lyceum — Mathematics & Computer Science
 - Moscow School of Programmers (Yandex) — Algorithms & Software Engineering
 
