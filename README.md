@@ -46,4 +46,4 @@ Higher School of Economics (HSE), Moscow
 	•	Participation in hackathons \
 	•	From research prototypes to production-ready systems
 
-For more info check my CV [[RU](https://drive.google.com/file/d/1L-GqeLurX8R28J172sbl30QvXgmPjwXx/view?usp=sharing)/[EN](https://drive.google.com/file/d/1L-CwadXvQv8acJ70s2J7LaUxZWmYwDu3/view?usp=sharing)] and contact me on [Telegram](https://t.me/sd_denisoff)!
+For more info check my CV [[RU](https://drive.google.com/file/d/1L-GqeLurX8R28J172sbl30QvXgmPjwXx/view?usp=sharing)/[EN](https://drive.google.com/file/d/1L-CwadXvQv8acJ70s2J7LaUxZWmYwDu3/view?usp=sharing)] and contact me on [Telegram](https://t.me/sd_den)!
